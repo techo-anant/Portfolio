@@ -1,6 +1,7 @@
 footer {
-    position: absolute;
+    position: block;
     bottom: 0;
+    margin-top: 60px;
 }
 
 .foot-sec1 {

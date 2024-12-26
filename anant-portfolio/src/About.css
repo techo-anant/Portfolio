@@ -1,0 +1,50 @@
+.about {
+    padding-top: 7vh;
+    width: 100vw;
+    height: 93vh;
+    display: flex;
+}
+
+.my-photo {
+    width: 50vw;
+    height: 93vh;
+    display: grid;
+    place-items: center;
+}
+
+.anantPhoto {
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    background-image: url("my-photo.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+.info {
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-right: 70px;
+}
+
+#name {
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#name b{
+    color: azure;
+}
+
+#dscp {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#letter {
+    font-size: 80px;
+}

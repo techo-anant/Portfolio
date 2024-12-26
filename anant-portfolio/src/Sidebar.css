@@ -1,0 +1,38 @@
+.side-bar {
+    height: 80vh;
+    width: 4.5vw;
+    background-color: transparent;
+    border-radius: 15px;
+    position: fixed;
+    margin-top: 100px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.elements {
+    height: 5.7vh;
+    width: 3vw;
+    background-color: yellow;
+    border-radius: 15px;
+}
+
+#mode {
+    height: 3vh;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    justify-content: left;
+}
+
+.icon {
+    width: 1.45vw;
+    height: 2.8vh;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: 1px;
+    margin-left: 1px;
+    margin-right: 1px;
+}

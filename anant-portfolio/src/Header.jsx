@@ -18,10 +18,11 @@ const Header = () => {
                     <a href="#"><li>Education</li></a>
                     <a href="#"><li>Work Experience</li></a>
                     <a href="#"><li>Hobbies</li></a>
+                    <a href="#"><li>Documents</li></a>
                 </ul>
             </div>
         </div>
-        <div className="bar">
+        <div className="bar-item">
           <div className="nav-item">About Me</div>
           <div className="nav-item">Projects</div>
           <div className="nav-item">Languages</div>
